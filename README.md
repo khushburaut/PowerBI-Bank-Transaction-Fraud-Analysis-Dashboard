@@ -40,7 +40,7 @@ The goal of this project is to help detect suspicious transactions and support d
 
 ## Dashboard Preview
 
-![Bank Fraud Dashboard](![Bank Fraud Dashboard](Powerbi_Dashboard_Image.png)
+[Bank Fraud Dashboard](![Bank Fraud Dashboard](Powerbi_Dashboard_Image.png)
 
 ## Key Insights
 
